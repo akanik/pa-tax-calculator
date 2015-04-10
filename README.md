@@ -1,7 +1,7 @@
 # PA tax calculator
 PublicSource created this tax calculator for Allegheny County residents to estimate how your property taxes, income taxes and sales taxes might change under Gov. Tom Wolf's first proposed budget.
 
-#### [Read the story here](http://publicsource.org/investigations/tax-calculator-how-gov-wolfs-budget-would-affect-you-allegheny-county#.VSfaPpRPLek)
+#### [Read the story here](http://publicsource.org/investigations/tax-calculator-how-gov-wolfs-budget-would-affect-you-allegheny-county#.VSfaPpRPLek) (embargoed for April 12, 2015)
 
 #### [Read about the data here](https://github.com/akanik/pa-tax-calculator/blob/master/about-the-data.md)
 
