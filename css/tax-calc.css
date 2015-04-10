@@ -1,0 +1,34 @@
+.table>tbody>tr>td,
+.table>tbody>tr>th{
+	border-top:none;
+}
+
+.form-head{
+	width:100%;
+	clear:both;
+	padding-bottom:.5em;
+}
+
+.form-head div{
+	color:#666666;
+}
+
+.form-group{
+	margin-bottom:3em;
+}
+
+.glyphicon, h3{
+	display: inline;
+}
+
+#container{
+	margin-bottom: 5em;
+}
+
+.row{
+	margin-top:2em;
+}
+
+.thick-divider{
+	border-top:#cccccc 4px solid;
+}
