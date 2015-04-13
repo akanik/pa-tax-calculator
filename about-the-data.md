@@ -49,8 +49,8 @@ You can see [the property tax rates for every school district](http://www.county
 
 We also included three school districts in our tax calculator that are primarily in Washington or Westmoreland counties, but also contain Allegheny County properties. They are the Fort Cherry, Penn-Trafford and Norwin school districts.
 
-It’s also important to note several discrepancies between our calculations and the Wolf administration’s calculations. 
-The Wolf administration estimates, as we wrote in our story, that 28 school districts in the state would be able to completely eliminate property taxes under the governor’s proposal. 
+It’s also important to note several discrepancies between our calculations and the Wolf administration's calculations. 
+The Wolf administration estimates, as we wrote in our story, that 28 school districts in the state would be able to completely eliminate property taxes under the governor's proposal. 
 
 However, in 49 school districts, the state will be providing more money than the district received in property taxes in 2012-13. That’s in part why our tax calculator shows that property taxes in these districts would be completely eliminated.
 
@@ -92,7 +92,7 @@ We divided estimated paid sales tax by .06 to get the total cost of taxed goods.
 
 We then took that total cost of taxed goods and multiplied it by .07 to get the current estimated sales tax paid and .076 to get the estimated sales tax paid under Wolf’s plan.
 
-We were going to use the Bureau of Labor Statistics’ 2013 Consumer Expenditure Survey, which estimates spending across a variety of categories. This was going to allow us to not only account for the increase in the sales tax rate, but also the sales tax expansion to new goods and services.
+We were going to use the Bureau of Labor Statistics' 2013 Consumer Expenditure Survey, which estimates spending across a variety of categories. This was going to allow us to not only account for the increase in the sales tax rate, but also the sales tax expansion to new goods and services.
 
 However, we decided not to use this methodology because it required us to make too many judgement calls about whether to include categories that contained some goods that were taxed and some goods that were not taxed.
 
