@@ -97,3 +97,17 @@ We were going to use the Bureau of Labor Statistics' 2013 Consumer Expenditure S
 However, we decided not to use this methodology because it required us to make too many judgement calls about whether to include categories that contained some goods that were taxed and some goods that were not taxed.
 
 We want to thank our news partners at The Patriot-News who created [the first tax calculator](http://www.pennlive.com/politics/index.ssf/2015/03/wolf_taxes_budget_property_tax.html) for a multi-county region in Central Pennsylvania and Rich Exner of the Northeast Ohio Media Group for his advice on the Internal Revenue Service tax tables.
+
+Update 5/31/2015
+
+We received detailed information on Rep. Stan Saylor’s property tax relief plan as a PDF from the House GOP caucus. We converted it to a spreadsheet using Tabula. 
+
+The Saylor plan raises the state sales tax from 6 to 7 percent and the state income tax from 3.07 to 3.7 percent. We made no changes to how we calculated the results of those two taxes.
+
+The way that the Saylor plan deals with property tax relief dollars is different than Wolf’s. Instead of allocating all the property tax relief money first to the homestead exemption as Wolf does, the Saylor plan divides the money into two funds. One fund designates a portion of the state’s money to reduce the property tax rate, and the second fund designates money to fund the homestead exemption. 
+
+Wolf’s plan funded the homestead exemption first and if there was money left over, his plan would reduce the property tax rate. By separating the money into two funds, it guaranteed that some amount of money would be able to reduce the property tax rate in each school district. 
+
+The division of state money into two funds slightly changed our methodology. We added the amount of money in the homestead exemption fund to the amount of money each school district received in 2014-15, which was only designated for homestead exemption tax relief. Like Wolf’s plan, if a school district could provide more money than the cost of the maximum homestead exemption, in accordance with the proposed legislation, we transferred the extra money from the homestead fund to the millage fund. Then you can calculate the final millage and homestead exemption by following the same steps as in the Wolf plan.
+
+We decided to eliminate the Fort Cherry School District from the tax calculator because it was producing incorrect results. The district is mostly in Washington County, and 111 homesteads of the districts 2,432 homesteads are in Allegheny County. We eliminated it from the tax calculator because millage rates and assessment values are calculated differently in Washington County than they are in Allegheny County. By using the Washington County millage rate and the median assessed value from Allegheny County for that district, we were incorrectly calculating the property taxes for all homesteads in that district based on accurate calculations for the 111 homesteads that are in Allegheny County.
