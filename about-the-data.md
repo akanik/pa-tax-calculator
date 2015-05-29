@@ -98,7 +98,7 @@ However, we decided not to use this methodology because it required us to make t
 
 We want to thank our news partners at The Patriot-News who created [the first tax calculator](http://www.pennlive.com/politics/index.ssf/2015/03/wolf_taxes_budget_property_tax.html) for a multi-county region in Central Pennsylvania and Rich Exner of the Northeast Ohio Media Group for his advice on the Internal Revenue Service tax tables.
 
-Update 5/31/2015
+##Update 5/31/2015
 
 We received detailed information on Rep. Stan Saylor’s property tax relief plan as a PDF from the House GOP caucus. We converted it to a spreadsheet using Tabula. 
 
