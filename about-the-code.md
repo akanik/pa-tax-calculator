@@ -11,7 +11,7 @@ Here is a breakdown of what happens when each user-input element is changed and 
 
 ### School District
 
-School district information is stored in an object array. When a user chooses a school district from the select list, the index of the selected district is recorded so that the millage and homestead exemptions for both tax years can be identified and written to variables. Any time the school district is changed, those variables are updated.
+School district information is stored in an object array. When a user chooses a school district from the select list, the index of the selected district is recorded so that the millage and homestead exemptions for plans can be identified and written to variables. Any time the school district is changed, those variables are updated.
 
 Also, property tax is dependent on school district, so when the school district changes, we run the function that determines property tax.
 
@@ -37,18 +37,18 @@ The userPropValue variable is watched for changes. When the the value changes, s
 
 This function is used to determine the property tax. First, make sure the user is a homeowner and has selected a school district. If they have, set the property tax variable (propTax) to this calculation: userPropValue times school.millage minus school.homesteadExemption. If the user is not a homeowner or if the property tax is going to be negative, set the property tax variable to 0.
 
-Do this for each tax year.
+Do this for each plan.
 
 ### Income tax function
 
 This function is used to determine the income tax bracket (for purposes of tax forgiveness) and the income tax. The income tax bracket a user falls into depends on their marital status and their income level. Once income bracket is determined, a percentage is returned. That percentage is used in the income tax calculation, which is: (userIncome times incomeTaxRate) times percIncomeTax.
 
-Do this for each tax year.
+Do this for each plan.
 
 ### Sales tax function
 
-This function is used to determine the estimated sales tax a person or household might pay over the course of a tax year. The sales tax values are based on the Internal Revenue Service tax tables from Form 1040, Schedule A. Depending on the number of people in your household and your income, you are assigned an estimated sales tax for both tax years.
+This function is used to determine the estimated sales tax a person or household might pay over the course of a tax year. The sales tax values are based on the Internal Revenue Service tax tables from Form 1040, Schedule A. Depending on the number of people in your household and your income, you are assigned an estimated sales tax for all plans.
 
 ### Renter rebate function
 
-You can only get the rental rebate if you don't own a home and if your income is less than $50,000. If those conditions are met, then set the rentCredit variable to $500. This rebate is not available for 2014-15 tax year.
+Under Wolf's plan, you can only get the rental rebate if you don't own a home and if your income is less than $50,000. If those conditions are met, then set the rentCredit variable to $500. This rebate is not available for 2014-15 tax year or for Saylor's plan.
